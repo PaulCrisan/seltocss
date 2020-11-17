@@ -1,8 +1,10 @@
 {
 	"name": "seltocss",
 	"displayName": "Quick sass to css",
+	"publisher": "plutopix",
 	"description": "Write sass into css file and tranform selection into css",
 	"icon": "images/icon.png",
+	"repository": "https://github.com/PaulCrisan/seltocss",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.51.0"
